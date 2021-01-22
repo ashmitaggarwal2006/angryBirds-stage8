@@ -1,2 +1,2 @@
-# angryBirds-stage8
-created score and changing the background using API
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
